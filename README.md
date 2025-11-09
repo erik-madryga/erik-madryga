@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erik-madryga
 - 👀 I’m interested in sports, cartoons, video games (xbox), and getting better.
-- 🌱 I’m currently learning the fundamentals of software engineering for a big company
+- 🌱 I’m currently a lead front-end engineer for navigation and experiences at Best Buy.
 - 💞️ I’m looking to collaborate on anything
 - 📫 email: madryga7@gmail.com
 
